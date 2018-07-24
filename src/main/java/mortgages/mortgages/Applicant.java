@@ -16,6 +16,9 @@
 
 package mortgages.mortgages;
 
+/**
+Adding a comment here as part of a test
+*/
 public class Applicant extends java.lang.Object implements java.io.Serializable {
 
     static final long serialVersionUID = 1L;
